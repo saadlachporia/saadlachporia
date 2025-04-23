@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @saadlachporia
-- programmer💻<>
-- pyhtoneer 🐍
-- robotic developer🤖
-- currently learning JS and c++
-- https://www.linkedin.com/in/saad-lachporia-943908245/
+    def print_profile():
+    |    print("- 👋 Hi, I’m @saadlachporia")
+    |   
+    |   print("- Software Engineer 💻<>")
+    |
+    |    print("  - Web Dev")
+    |
+    |    print("  - Cyber Security 🔐")
+    |
+    |    print("  - Pyhtoneer 🐍")
+    |
+    |    print("  - Robotic Developer 🤖")
+    |
+    |    print("- LinkedIn: https://www.linkedin.com/in/saad-lachporia-943908245/")
+    |
+    |
+    |if __name__ == "__main__":
+
+
 
 
 <!---
